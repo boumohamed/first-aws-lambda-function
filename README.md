@@ -1,4 +1,6 @@
 # first-lambda-function serverless API
+<img width="959" alt="image" src="https://github.com/boumohamed/first-aws-lambda-function/assets/62290643/cec24146-1576-49a2-b165-ce727b40194b">
+
 The first-lambda-function project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container).
 
 The starter project defines a simple `/ping` resource that can accept `GET` requests with its tests.
