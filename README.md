@@ -1,5 +1,6 @@
 # first-lambda-function serverless API
-<img width="959" alt="image" src="https://github.com/boumohamed/first-aws-lambda-function/assets/62290643/cec24146-1576-49a2-b165-ce727b40194b">
+<img width="867" alt="image" src="https://github.com/boumohamed/first-aws-lambda-function/assets/62290643/347c1531-5d55-42e3-8464-9761f6c87029">
+
 
 The first-lambda-function project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container).
 
